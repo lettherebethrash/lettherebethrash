@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tom Sherrin!
-- 👀 I’m interested in HTML, JavaScript, .NET C# and Python
-- 🌱 I’m currently learning the above technologies
-- 💞️ I’m looking to collaborate on whatever fits my expertise
+- 👀 I’m interested in Data Analytics and Web Development
+- 🌱 I’m currently learning SQL, Python in a data context and JavaScript
 - 📫 How to reach me: by email tomsherrin5@gmail.com
 
 <!---
